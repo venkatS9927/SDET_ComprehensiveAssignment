@@ -1,0 +1,7 @@
+<suite name="MakeMyTrip Tests">
+    <test name="MakeMyTrip Test Suite">
+        <classes>
+            <class name="MakeMyTripTests"/>
+        </classes>
+    </test>
+</suite>
